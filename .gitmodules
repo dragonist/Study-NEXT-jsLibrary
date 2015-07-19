@@ -1,0 +1,3 @@
+[submodule "deokseong"]
+	path = deokseong
+	url = https://github.com/zeakd/rothko-project
