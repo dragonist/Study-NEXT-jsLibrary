@@ -1,3 +1,12 @@
 [submodule "deokseong-rothko"]
 	path = deokseong-rothko
 	url = https://github.com/zeakd/rothko-project
+[submodule "shinyoung-plot.js"]
+	path = shinyoung-plot.js
+	url = https://github.com/fairesy/plot.js/
+[submodule "hyewon-scroll-animation-library"]
+	path = hyewon-scroll-animation-library
+	url = https://github.com/kimhyewon/scroll-animation-library/
+[submodule "erin"]
+	path = erin
+	url = https://github.com/dragonist/2015-02-JS/
