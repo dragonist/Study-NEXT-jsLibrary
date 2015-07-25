@@ -10,3 +10,9 @@
 [submodule "erin"]
 	path = erin
 	url = https://github.com/dragonist/2015-02-JS/
+[submodule "byjo-list.js"]
+	path = byjo-list.js
+	url = https://github.com/byjo/list.js
+[submodule "jb-MWiki"]
+	path = jb-MWiki
+	url = https://github.com/JB1021/MWIKI-02-2015/
